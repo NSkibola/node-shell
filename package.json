@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "forNodeModules",
+  "main": "bash.js",
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSkibola/node-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSkibola/node-shell/issues"
+  },
+  "homepage": "https://github.com/NSkibola/node-shell#readme"
+}
